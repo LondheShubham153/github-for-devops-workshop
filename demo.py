@@ -1,7 +1,7 @@
 def my_function():
 
     a = 5
-    return a
+    return a 
 
 
 my_function()
