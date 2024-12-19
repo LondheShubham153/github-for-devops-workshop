@@ -5,3 +5,6 @@ def my_function():
 
 
 my_function()
+
+print("test")
+print("test 2")
