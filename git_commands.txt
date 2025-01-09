@@ -25,5 +25,5 @@ git remote -v
 git push origin master
 clear
 
-
+git push -u origin master
 this is some new changes
