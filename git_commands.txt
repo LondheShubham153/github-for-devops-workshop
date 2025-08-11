@@ -26,4 +26,5 @@ git push origin master
 clear
 
 
-this is some new changes
+"this is new change for compare and pull request"
+
