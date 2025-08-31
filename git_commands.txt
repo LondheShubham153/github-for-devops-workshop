@@ -26,4 +26,15 @@ git push origin master
 clear
 
 
-this is some new changes
+this is some new changes and additional commands to add.
+
+Commands for branching and merging
+git branch 'Branch name'    (To create new branch)
+git switch Branch name or git checkout Branch name       (switch from branch to other branch)
+git log      (Latest commit)
+git log --oneline (Arrange commit line by line)
+git pull origin Branch name    (To merge Branch into master)
+git push origin dev (To push new branch to remote i.e github)
+updated code in dev branch 31 aug 2025.
+These are all commands for git and we test merge repeatedly at 9 a.m for the last and final merge.
+Creating pull request from github.
