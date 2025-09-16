@@ -4,7 +4,7 @@ git add .
 git status
 clear
 git status
-git commit -m "added testing files"
+git commit -m "added testing files jai hind"
 clear
 git status
 rm testing.py
@@ -14,6 +14,8 @@ git status
 git restore testing.py
 clear
 git status
+
+niceeeeeeeeeeeeeeeeeeeeegit status
 
 git remote add origin https://github.com/LondheShubham153/github-for-devops-workshop.git
 git remote -v
