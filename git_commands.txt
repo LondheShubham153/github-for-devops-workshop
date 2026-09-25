@@ -26,4 +26,4 @@ git push origin master
 clear
 
 
-this is some new changes
+this is some new changes and i have cloned this repo to my local, This is done by Majunu
